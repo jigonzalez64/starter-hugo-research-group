@@ -12,6 +12,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    color: rgba(0, 0, 0, 0.73)
+    color: rgba(0, 0, 0, 0)
+    gradient_start: "#000000"
 ---
 La actividad investigadora
